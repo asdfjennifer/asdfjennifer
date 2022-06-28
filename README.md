@@ -2,7 +2,7 @@
 ### Glad to see you here! Check out this repository to learn more about me:
 
 
-I´m a Junior Frontend Developer using HTML, CSS, SASS, Bootstrap, JavaScript & React.js
+I´m a Junior Frontend Developer from Germany using HTML, CSS, SASS, Bootstrap, JavaScript & React.js
 
 - I’m currently learning React and Backend skills
 
