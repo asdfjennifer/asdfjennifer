@@ -8,7 +8,7 @@ I´m a Junior Frontend Developer using HTML, CSS, SASS, Bootstrap, JavaScript, R
 
 - Ask me about anything you like to
 
-- How to reach me: write me on github or  <a href="[your-linkedin-URL](https://www.linkedin.com/in/jennifergenger/)"><img src="[https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg](https://pics.freeicons.io/uploads/icons/png/21156992231551941181-512.png)"  title="Linkedin" alt="Linkedin" width="40" height="20"/>&nbsp;</a>
+- How to reach me: write me on github or  <a href="[your-linkedin-URL](https://www.linkedin.com/in/jennifergenger/)"><img src="https://github.com/shahbajjamil/Social-Meadia-Icons/raw/master/Icons-logos/linkedin-circle.png"  title="Linkedin" alt="Linkedin" width="40" height="20"/>&nbsp;</a>
 
 
 
