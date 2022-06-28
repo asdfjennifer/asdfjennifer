@@ -7,7 +7,7 @@ I´m a Junior Frontend Developer using HTML, CSS, SASS, Bootstrap, JavaScript & 
 - I’m currently learning React and Backend skills
 
 - Get in touch:
-
+<div>
 <a href="https://github.com/asdfjennifer"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png?raw=true"  title="Github" alt="Github" width="40" height="40"/>&nbsp;</a>
 
 <a href="https://www.linkedin.com/in/jennifergenger/"><img src="https://github.com/shahbajjamil/Social-Meadia-Icons/raw/master/Icons-logos/linkedin-circle.png"  title="Linkedin" alt="Linkedin" width="40" height="40"/>&nbsp;</a>
@@ -15,7 +15,7 @@ I´m a Junior Frontend Developer using HTML, CSS, SASS, Bootstrap, JavaScript & 
 <a href="https://discordapp.com/users/955413730139713536"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Discord.png?raw=true"  title="Discord" alt="Discord" width="40" height="40"/>&nbsp;</a>
 
 <a href="https://www.twitch.tv/asdfjennifer"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitch.png?raw=true"  title="Twitch" alt="Twitch" width="40" height="40"/>&nbsp;</a>
-
+</div>
 
 
 ---
