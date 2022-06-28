@@ -10,6 +10,20 @@ I´m a Junior Frontend Developer using HTML, CSS, SASS, Bootstrap, JavaScript, R
 
 - How to reach me: write me on github or  <a href="[your-linkedin-URL](https://www.linkedin.com/in/jennifergenger/)"><img src="[https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg](https://pics.freeicons.io/uploads/icons/png/21156992231551941181-512.png)"  title="Linkedin" alt="Linkedin" width="40" height="20"/>&nbsp;</a>
 
+<!-- Actual text -->
+
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/Martin_Heinz_
+[2]: https://www.linkedin.com/in/heinz-martin/
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
