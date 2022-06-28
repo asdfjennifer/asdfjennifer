@@ -1,5 +1,6 @@
 ### Hey there 👋
-### Glad to see you here! Check out this repository to learn more about me 🤓.
+### Glad to see you here! Check out this repository to learn more about me 🤓
+---
 
 I´m a Junior Frontend Developer using HTML, CSS, SASS, Bootstrap, JavaScript, React.js
 
