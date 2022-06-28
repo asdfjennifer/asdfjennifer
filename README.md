@@ -7,4 +7,4 @@ I´m a Junior Frontend Developer using HTML, CSS, SASS, Bootstrap, JavaScript, R
 
 💬 Ask me about anything you like to
 
-📫 How to reach me: write me on github or post.fuer.j.schaefer@gmail.com
+📫 How to reach me: write me on github or https://www.linkedin.com/in/jennifergenger/
