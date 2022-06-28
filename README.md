@@ -14,7 +14,7 @@ I´m a Junior Frontend Developer using HTML, CSS, SASS, Bootstrap, JavaScript & 
 
 <a href="https://discord.com/"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Discord.png?raw=true"  title="Discord" alt="Discord" width="40" height="40"/>&nbsp;</a>
 
-<a href="[https://discord.com/](https://www.twitch.tv/asdfjennifer)"><img src="[https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Discord.png?raw=true](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitch.png?raw=true)"  title="Twitch" alt="Twitch" width="40" height="40"/>&nbsp;</a>
+<a href="[https://discord.com/](https://www.twitch.tv/asdfjennifer)"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitch.png?raw=true"  title="Twitch" alt="Twitch" width="40" height="40"/>&nbsp;</a>
 
 
 
