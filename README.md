@@ -26,5 +26,5 @@ I´m a Junior Frontend Developer using HTML, CSS, SASS, Bootstrap, JavaScript, R
 
 ### :fire: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=asdfjennifer
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=asdfjennifer&theme=dark&background=000000)](https://git.io/streak-stats)
