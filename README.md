@@ -2,15 +2,15 @@
 ### Glad to see you here! Check out this repository to learn more about me:
 
 
-I´m a Junior Frontend Developer using HTML, CSS, SASS, Bootstrap, JavaScript, React.js
+I´m a Junior Frontend Developer using HTML, CSS, SASS, Bootstrap, JavaScript & React.js
 
-- I’m currently learning React and BackEnd Skills
+- I’m currently learning React and Backend skills
 
-- Ask me about anything you like to
+- Get in touch:
 
 <a href="[your-linkedin-URL](https://www.linkedin.com/in/jennifergenger/)"><img src="https://github.com/shahbajjamil/Social-Meadia-Icons/raw/master/Icons-logos/linkedin-circle.png"  title="Linkedin" alt="Linkedin" width="40" height="40"/>&nbsp;</a>
 
-
+<a href=""><img src="[https://github.com/shahbajjamil/Social-Meadia-Icons/raw/master/Icons-logos/linkedin-circle.png](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Discord.png?raw=true)"  title="Discord" alt="Discord" width="40" height="40"/>&nbsp;</a>
 
 ---
 
