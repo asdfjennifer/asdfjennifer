@@ -27,7 +27,8 @@ I'm a Junior Frontend Developer from Germany using HTML, CSS, SASS, Bootstrap, J
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/300px-Bootstrap_logo.svg.png" title="Bootstrap" **alt="Git" width="40" height="30"/>
-  <img src="https://img.icons8.com/color/344/nodejs.png" title="Node.js" **alt="Git" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/344/nodejs.png" title="Node.js" **alt="Node" width="40" height="40"/>
+    <img src="XXX" title="Express" alt="Express" width="40" height="40"/>
   <img src="https://img.icons8.com/fluency/344/visual-studio.png" title="VSCode" **alt="Git" width="40" height="40"/>
 </div>
 
