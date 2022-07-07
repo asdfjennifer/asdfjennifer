@@ -4,7 +4,7 @@
 
 I'm a Junior Frontend Developer from Germany using HTML, CSS, SASS, Bootstrap, JavaScript & React.js
 
-- Currently learning React and Backend skills
+- Currently learning Backend skills (Node.js)
 
 - Get in touch:
 <div>
